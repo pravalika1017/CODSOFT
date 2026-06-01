@@ -1,2 +1,5 @@
 CODSOFT Task-1(To-Do List.py)
-CODSOFT Task-1(Cal.py)
+CODSOFT Task-2(Cal.py)
+CODSOFT Task-3(passwordgenerator.py)
+CODSOFT Task-4(rockpaperscissors.py)
+CODSOFT Task-5(contackbook.py)
